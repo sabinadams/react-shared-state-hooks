@@ -1,11 +1,13 @@
 import React from 'react';
 import './App.scss'
-import Points from './components/Points/Points'
+import PointsUseState from './components/PointsUseState'
+import PointsUseReducer from './components/PointsUseReducer'
 
 function App() {
   return (
     <div className="App">
-      <Points />
+      <PointsUseState />
+      <PointsUseReducer />
     </div>
   );
 }
