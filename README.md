@@ -1,5 +1,7 @@
 ## Project's Purpose
 
+Explained in my [article on managing state with react hooks](https://sabinthedev.com/managing-state-with-react-hooks/)
+
 Showcases statefulness in function components in 3 ways:
 1. Using `useState`
 2. Using `useReducer`
