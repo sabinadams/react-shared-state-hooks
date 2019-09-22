@@ -1,3 +1,5 @@
+## Project's Purpose
+
 Showcases statefulness in function components in 3 ways:
 1. Using `useState`
 2. Using `useReducer`
