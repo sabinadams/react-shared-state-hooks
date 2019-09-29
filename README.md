@@ -1,11 +1,8 @@
 ## Project's Purpose
 
-Explained in my [article on managing state with react hooks](https://sabinthedev.com/managing-state-with-react-hooks/)
+Explained in my [article on setting up shared state with react hooks and the context API](https://www.sabinthedev.com/shared-state-with-react-hooks-and-context-api/)
 
-Showcases statefulness in function components in 3 ways:
-1. Using `useState`
-2. Using `useReducer`
-3. Global/Shared state using React's Context API and hooks
+Demonstrates one method of sharing state between function components using React's Hooks and Context API. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
