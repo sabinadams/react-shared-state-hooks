@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import { StateContext } from '../State'
+import { StateContext } from '../contexts/State'
 import '../assets/scss/Points.scss'
 
 function Points({index}) {
